@@ -1,5 +1,5 @@
 // Package websocketproxy is a reverse proxy for WebSocket connections.
-package web
+package ws
 
 import (
 	"fmt"
